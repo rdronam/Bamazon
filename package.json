@@ -1,0 +1,24 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Amazon-esque storefront app utilizing node.js and mySQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rdronam/Bamazon.git"
+  },
+  "author": "Rahul Dronamraju",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rdronam/Bamazon/issues"
+  },
+  "homepage": "https://github.com/rdronam/Bamazon#readme",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "inquirer": "^3.3.0",
+    "mysql": "^2.14.1"
+  }
+}
